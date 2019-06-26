@@ -1,7 +1,7 @@
 # express-locallibrary-tutorial
 Local Library website written in Express (Node) [Test Project]
 
-# "Como rodar"
+## "Como rodar"
 Ir para a pasta "express-locallibrary-tutorial" <br />
 executar (2 comandos): <br />
 npm install <br />
